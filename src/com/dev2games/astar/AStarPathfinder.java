@@ -1,3 +1,4 @@
+package com.dev2games.astar;
 import java.util.ArrayList;
 import java.util.List;
 

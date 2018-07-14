@@ -1,3 +1,4 @@
+package com.dev2games.astar;
 /**
  * Represents a point vector
  * @author Nelson Sanchez
