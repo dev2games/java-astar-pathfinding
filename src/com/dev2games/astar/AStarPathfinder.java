@@ -18,6 +18,11 @@ public class AStarPathfinder {
 	
 	public AStarPathfinder(Vector start, Vector goal) {
 		
+		//If the open set is not empty we will loop through it
+		while (!openSet.isEmpty()) {
+			
+		}
+		
 	}
 	
 }
